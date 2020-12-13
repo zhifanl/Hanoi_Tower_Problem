@@ -1,9 +1,4 @@
-/**
- * Simple C++ class for representing a Cube (with constructors).
- * 
- * @author
- *   Wade Fagen-Ulmschneider <waf@illinois.edu>
- */
+
 
 #include "Cube.h"
 #include "HSLAPixel.h"
